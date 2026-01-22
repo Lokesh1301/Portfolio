@@ -4,7 +4,7 @@ export const PROFILE = {
   name: "Lokesh S",
   title: "Java Full Stack Developer • MCA Graduate",
   // Replace the URL below with your actual photo URL
-  image: "/profile.jpg", 
+  image: "WhatsApp Image 2025-12-12 at 7.28.50 AM.jpeg" , 
   about: "I am a Java Full Stack Developer and MCA Graduate with strong skills in backend logic, object-oriented programming, SQL databases, debugging, and application development. I enjoy building reliable backend modules, clean architectures, and efficient systems that make applications fast, scalable, and maintainable."
 };
 
