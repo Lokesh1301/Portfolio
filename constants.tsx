@@ -38,7 +38,7 @@ export const SKILLS: SkillCategory[] = [
 export const EXPERIENCE: ExperienceItem[] = [
   {
     id: 1,
-    role: "Intern — Java Full Stack",
+    role: "Job — Java Full Stack",
     company: "Vcodez Innovating Ideas",
     period: "Jan 2025 – Mar 2025",
     points: [
@@ -126,7 +126,7 @@ export const EDUCATION: EducationItem[] = [
     year: "2020–2023",
     grade: "CGPA: 8.4"
   }
-];
+]; 
 
 export const NAV_LINKS = [
   { name: "Home", path: "#home" },
