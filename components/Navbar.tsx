@@ -3,6 +3,8 @@ import { NAV_LINKS } from '../constants';
 import { Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
+
+
 const Navbar: React.FC = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -61,7 +63,7 @@ const Navbar: React.FC = () => {
           onClick={(e) => scrollToSection(e, '#home')}
           className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-violet-400 to-cyan-400 hover:opacity-80 transition-opacity"
         >
-          Lokesh<span className="text-pink-500"> S</span>
+          Lokesh<span className="text-pink-500">  S</span>
         </a>
 
         {/* Desktop Menu */}
