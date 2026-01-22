@@ -61,7 +61,7 @@ const Navbar: React.FC = () => {
           onClick={(e) => scrollToSection(e, '#home')}
           className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-violet-400 to-cyan-400 hover:opacity-80 transition-opacity"
         >
-          Lokesh<span className="text-pink-500">.</span>
+          Lokesh<span className="text-pink-500"> S</span>
         </a>
 
         {/* Desktop Menu */}
